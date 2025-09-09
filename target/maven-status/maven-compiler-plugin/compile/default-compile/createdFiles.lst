@@ -1,0 +1,8 @@
+com/hostel/complaint/service/ComplaintService.class
+com/hostel/complaint/repository/ComplaintRepository.class
+com/hostel/complaint/model/Complaint$Priority.class
+com/hostel/complaint/model/Complaint.class
+com/hostel/complaint/ComplaintManagementApplication.class
+com/hostel/complaint/model/Complaint$Status.class
+com/hostel/complaint/model/Complaint$Category.class
+com/hostel/complaint/controller/ComplaintController.class
